@@ -1,2 +1,2 @@
 # singleServerQueue
-Single server queue simulation
+This is my college project for Simulation course
